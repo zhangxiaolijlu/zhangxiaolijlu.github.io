@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to zxl Pages
 
-You can use the [editor on GitHub](https://github.com/zhangxiaolijlu/zhangxiaolijlu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+aa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+(1) 2019.09-至今 吉林大学计算机科学与技术学院 副教授
 
-### Markdown
+(2) 2018.11-2019.09 吉林大学计算机科学与技术学院 讲师
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+(3) 2016.09-2018.11 吉林大学通信工程学院博士后
 ```markdown
 Syntax highlighted code block
 
