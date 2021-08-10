@@ -19,84 +19,82 @@ Image & Video Processing
 
 Machine Learning
 ### Selected Publications
-#### 2021
-[1] Wang Zeyu, Li Xiongfei, Duan Haoran, Su Yanchi, Zhang Xiaoli*,Guan Xinjiang.Medical image fusion based on convolutional neural networks and non-subsampled contourlet    transform[J]. Expert Systems with Applications,2021, 171.
+#### (2021)
+1. Zhu Rui, Li Xiongfei, Zhang Xiaoli*, Wang Jing. HID: The Hybrid Image Decomposition Model for MRI and CT Fusion. IEEE journal of biomedical and health informatics, 2021 (on line).
 
-[2] Yu Shuang, Li Xiongfei, Ma Mingrui, Zhang Xiaoli*, Chen Shiping.Multi-focus image fusion based on L1 image transform[J]. Multimedia Tools and Applications,2021, 80 (4): 5673-5700.
+2. Yu Shuang, Li Xiongfei, Wang Hancheng, Zhang Xiaoli*, Chen Shiping. C_CART: An instance confidence-based decision tree algorithm for classification. Intelligent Data Analysis, 2021, 25 (4): 929-948.
 
-[3] Yu Shuang, Li Xiongfei, Wang Hancheng, Zhang Xiaoli*, Chen Shiping.BIDI: A classification algorithm with instance difficulty invariance[J]. Expert Systems with Applications,2021, 165.
+3. Zhang Siqi, Li Xiongfei, Zhang Xiaoli*, Zhang Shuhan.Infrared and visible image fusion based on saliency detection and two-scale transform decomposition. Infrared Physics & Technology, 2021, 114.
 
-[4] Zhang Siqi, Li Xiongfei, Zhu Rui, Zhang Xiaoli*, Wang Zeyu, Zhang Shuhan.Medical image fusion algorithm based on L-0 gradient minimization for CT and MRI[J]. Multimedia Tools and Applications,2021.
+4. Wang Zeyu, Li Xiongfei, Duan Haoran, Su Yanchi, Zhang Xiaoli*,Guan Xinjiang.Medical image fusion based on convolutional neural networks and non-subsampled contourlet    transform[J]. Expert Systems with Applications, 2021, 171: 114574.
 
-[5] Zhu Rui, Li Xiongfei, Zhang Xiaoli*,Ma Mingrui.MRI and CT Medical Image Fusion Based on Synchronized-Anisotropic Diffusion Model[J]. IEEE Access,2020, 8: 91336-91350.
+5. Yu Shuang, Li Xiongfei, Ma Mingrui, Zhang Xiaoli*, Chen Shiping. Multi-focus image fusion based on L1 image transform. Multimedia Tools and Applications, 2021, 80 (4): 5673-5700.
 
-[6] Zhu Rui, Li Xiongfei, Zhang Xiaoli*,Xu Xiaowei.MRI enhancement based on visual-attention by adaptive contrast adjustment and image fusion[J]. Multimedia Tools and Applications,2020.
+6. Yu Shuang, Li Xiongfei, Wang Hancheng, Zhang Xiaoli*, Chen Shiping. BIDI: A classification algorithm with instance difficulty invariance. Expert Systems with Applications, 2021, 165: 113920.
 
-[7] Jiang Shuai, Li Xiongfei, Zhang Xiaoli*: An Image Fusion Algorithm Based on Local Laplasse Filter, Xu M,Zhang K,editor,Proceedings of the 2nd International Conference on Advances inMechanical Engineering and Industrial Informatics,2016: 571-577.
+7. Zhang Siqi, Li Xiongfei, Zhu Rui, Zhang Xiaoli*, Wang Zeyu, Zhang Shuhan.Medical image fusion algorithm based on L-0 gradient minimization for CT and MRI. Multimedia Tools and Applications, 2021, 80 (14): 21135-21164.
 
-[8] Li Xiongfei, Wang Lingling, Wang Jing, Zhang Xiaoli*. Multi-focus image fusion algorithm based on multilevelmorphological component analysis and support vector machine[J].IET ImageProcessing,2017, 11 (10): 919-926.
+8. Zhu Rui, Li Xiongfei, Zhang Xiaoli*, Xu Xiaowei. MRI enhancement based on visual-attention by adaptive contrast adjustment and image fusion. Multimedia Tools and Applications, 2021, 80(9): 13019.
 
-[9] Liu Sihan, Li Xiongfei, Zhang Xiaoli*. Remote sensing image fusion algorithm based on mutual-structure forjoint filtering using saliency detection[J].Journal of Electronic Imaging,2019,28 (3).
 
-[10] Luo Shi, Li Xiongfei, Zhu Rui, Zhang Xiaoli*. SFA: Small Faces Attention Face Detector[J].Ieee Access,2019, 7:171609-171620.
+#### (2020)
 
-[11] Wang Jing, Li Xiongfei, Wang Zeyu, Duan Haoran, Zhang Xiaoli*. Exposure correction using deep learning[J].Journal ofElectronic Imaging,2019, 28 (3).
+1. Zhu Rui, Li Xiongfei, Zhang Xiaoli*, Ma Mingrui. MRI and CT Medical Image Fusion Based on Synchronized-Anisotropic Diffusion Model. IEEE Access, 2020, 8: 91336-91350.
 
-[12] Wang Jing, Li Xiongfei, Zhang Yan, ZhangXiaoli*. Adaptive decomposition method for multi-modal medical imagefusion[J].IET Image Processing,2018, 12 (8): 1403-1412.
+2. Guo Rui, Shen Xuanjing, ZhangXiaoli*. Comprehensive measure for evaluating image fusion algorithm.Journal of Electronic Imaging, 2020, 29(1): 013008.
 
-[13] Wang Zeyu, Li Xiongfei, Duan Haoran, Zhang Xiaoli*, Wang Hancheng. Multifocus image fusion usingconvolutional neural networks in the discrete wavelet transformdomain[J]. Multimedia Tools and Applications,2019, 78 (24): 34483-34512.
+3. 李雄飞, 王婧, 张小利, 范铁虎.基于SVM和窗口梯度的多焦距图像融合方法.吉林大学学报(工学版), 2020, 50 (01): 227-236.
 
-[14] Yang Chengjia, Li Xiongfei, Zhang Xiaoli. Lip Contour Extraction of RGB-based Improved Region GrowingAlgorithm[M]. 2014: 597-600.
+#### (2019)
 
-[15] Ye Fajie, Li Xiongfei, ZhangXiaoli*. FusionCNN: a remote sensing image fusion algorithm based on deepconvolutional neural networks[J]. Multimedia Tools and Applications,2019, 78(11): 14683-14703.
+1. Liu Sihan, Li Xiongfei, Zhang Xiaoli*. Remote sensing image fusion algorithm based on mutual-structure for joint filtering using saliency detection.Journal of Electronic Imaging, 2019, 28 (3): 033007.
 
-[16] Yu Shuang, Li Xiongfei, Zhang Xiaoli*, Wang Hancheng. The OCS-SVM: An Objective-Cost-Sensitive SVM WithSample-Based Misclassification Cost Invariance[J]. IEEE Access,2019, 7:118931-118942.
+2. Luo Shi, Li Xiongfei, Zhu Rui, Zhang Xiaoli*. SFA: Small Faces Attention Face Detector. IEEE Access, 2019, 7:171609-171620.
 
-[17] Zhang Xiaoli, Li Xiongfei,Feng Yuncong.A new image fusion performance measure using Riesztransforms[J]. Optik,2014, 125 (3): 1427-1433.
+3. Wang Jing, Li Xiongfei, Wang Zeyu, Duan Haoran, Zhang Xiaoli*. Exposure correction using deep learning. Journal ofElectronic Imaging,2019, 28 (3): 033003.
 
-[18] Zhang Xiaoli, Li Xiongfei, Feng Yuncong. A medical image segmentation algorithm based on bi-directionalregion growing[J]. Optik,2015, 126 (20): 2398-2404.
+4. Ye Fajie, Li Xiongfei, ZhangXiaoli*. FusionCNN: a remote sensing image fusion algorithm based on deepconvolutional neural networks. Multimedia Tools and Applications,2019, 78(11): 14683-14703.
 
-[19] Zhang Xiaoli, Li Xiongfei, Feng Yuncong.A classification performance measure considering the degree ofclassification difficulty[J]. Neurocomputing, 2016, 193: 81-91.
+5. Yu Shuang, Li Xiongfei, Zhang Xiaoli*, Wang Hancheng. The OCS-SVM: An Objective-Cost-Sensitive SVM WithSample-Based Misclassification Cost Invariance. IEEE Access, 2019, 7: 118931-118942.
 
-[20] Zhang Xiaoli, Li Xiongfei, Feng Yuncong.A new multifocus image fusion based on spectrum comparison[J]. Signal Processing,2016, 123: 127-142.
+6. Wang Zeyu, Li Xiongfei, Duan Haoran, Zhang Xiaoli*, Wang Hancheng. Multifocus image fusion usingconvolutional neural networks in the discrete wavelet transformdomain. Multimedia Tools and Applications,2019, 78 (24): 34483-34512.
 
-[21] Zhang Xiaoli, Li Xiongfei, Feng Yuncong.Image fusion based on simultaneous empirical wavelet transform[J]. Multimedia Tools and Applications,2017, 76 (6): 8175-8193.
+7. Guo Rui, Shen Xuanjing, ZhangXiaoli*. 3D ROC Histogram: A New ROC Analysis Tool Incorporating Information on Instances[J].IEEE Access,2019, 7: 183396-183404.
 
-[22] Zhang Xiaoli, Li Xiongfei, Feng Yuncong, Liu Zhaojun.The use of ROC and AUC in the validation of objective image fusion evaluation metrics[J]. Signal Processing,2015, 115: 38-48.
+8. 李雄飞, 宋璐, 张小利*.基于协同经验小波变换的遥感图像融合.吉林大学学报(工学版),2019, 49 (04): 1307-1319.
 
-[23] Zhang Xiaoli, Li Xiongfei, Feng Yuncong, Zhao Haoyu, Liu Zhaojun. Image fusion with Internal Generative Mechanism[J]. Expert Systems with Applications, 2015, 42 (5): 2382-2391.
+9. 李雄飞, 周晋男, 张小利*.基于混合模型的广告转化率问题研究.东北大学学报(自然科学版),2019, 40 (07): 942-947.
 
-[24] Zhang Xiaoli, Li Xiongfei,Li Hongpeng, Feng Yuncong, Ieee: A SEMI-AUTOMATIC BRAIN TUMOR SEGMENTATIONALGORITHM,2016 Ieee International Conference on Multimedia & Expo,2016.
 
-[25] Zhang Xiaoli, Li Xiongfei,Liu Zhaojun, Feng Yuncong.Multi-focus image fusion using image-partition-based focus detection[J].Signal Processing,2014, 102: 64-76.
+#### (-2018)
 
-[26] Zhu Rui, Li Xiongfei, Zhang Xiaoli, Ma Mingrui.MRI and CT Medical Image Fusion Based on Synchronized-Anisotropic Diffusion Model[J]. IEEE Access,2020, 8: 91336-91350.
 
-[27] Feng Yuncong, Shen Xuanjing, Chen Haipeng, Zhang Xiaoli: Internal Generative Mechanism Based Otsu MultilevelThresholding Segmentation for Medical Brain Images, Advances in Multimedia Information Processing - PCM 2015, PtI,2015: 3-12.
+1. Wang Jing, Li Xiongfei, Zhang Yan, ZhangXiaoli*. Adaptive decomposition method for multi-modal medical imagefusion.IET Image Processing,2018, 12 (8): 1403-1412.
 
-[28] Feng Yuncong, Shen Xuanjing, Chen Haipeng, Zhang Xiaoli. A weighted-ROC graph based metric for imagesegmentation evaluation[J]. Signal Processing,2016, 119: 43-55.
+2. 李雄飞, 冯婷婷, 骆实, 张小利*.基于递归神经网络的自动作曲算法.吉林大学学报(工学版),2018, 48 (03): 866-873.
 
-[29] Feng Yuncong, Shen Xuanjing, Chen Haipeng, Zhang Xiaoli. Segmentation fusion based on neighboring information for MR brain images[J]. Multimedia Tools and Applications,2017, 76 (22):23139-23161.
+3. Li Xiongfei, Wang Lingling, Wang Jing, Zhang Xiaoli*. Multi-focus image fusion algorithm based on multilevelmorphological component analysis and support vector machine.IET ImageProcessing, 2017, 11 (10): 919-926.
 
-[30] Guo Rui, Shen Xuanjing, ZhangXiaoli*. 3D ROC Histogram: A New ROC Analysis Tool Incorporating Information on Instances[J].Ieee Access,2019, 7: 183396-183404.
+4. Zhang Xiaoli, Li Xiongfei, Feng Yuncong. Image fusion based on simultaneous empirical wavelet transform. Multimedia Tools and Applications,2017, 76 (6): 8175-8193.
 
-[31] Guo Rui, Shen Xuanjing, ZhangXiaoli*. Comprehensive measure for evaluating image fusion algorithm[J].Journal of Electronic Imaging,2020, 29 (1).
+5. Zhang Xiaoli, Li Xiongfei,Li Hongpeng, Feng Yuncong, Ieee: A SEMI-AUTOMATIC BRAIN TUMOR SEGMENTATIONALGORITHM, 2016 Ieee International Conference on Multimedia & Expo,2016.
 
-[32] Qin Jun, Shen Xuanjing, Chen Haipeng, Lv Yingda, Zhang Xiaoli. A fusion algorithm for medical structural and functional images based on adaptive image decomposition[J]. Multimedia Tools andApplications,2019, 78 (22): 32605-32629.
+6. Zhang Xiaoli, Li Xiongfei, Feng Yuncong.A classification performance measure considering the degree ofclassification difficulty. Neurocomputing, 2016, 193: 81-91.
 
-[33] 李雄飞, 王婧, 张小利, 范铁虎.基于SVM和窗口梯度的多焦距图像融合方法[J].吉林大学学报(工学版),2020, 50 (01): 227-236.
+7. Zhang Xiaoli, Li Xiongfei, Feng Yuncong.A new multifocus image fusion based on spectrum comparison. Signal Processing,2016, 123: 127-142.
 
-[34] 李雄飞, 宋璐, 张小利*.基于协同经验小波变换的遥感图像融合[J].吉林大学学报(工学版),2019, 49 (04): 1307-1319.
+8. Zhang Xiaoli, Li Xiongfei, Feng Yuncong. A medical image segmentation algorithm based on bi-directionalregion growing. Optik,2015, 126 (20): 2398-2404.
 
-[35] 李雄飞, 周晋男, 张小利*.基于混合模型的广告转化率问题研究[J].东北大学学报(自然科学版),2019, 40 (07): 942-947.
+9. Zhang Xiaoli, Li Xiongfei, Feng Yuncong, Liu Zhaojun.The use of ROC and AUC in the validation of objective image fusion evaluation metrics. Signal Processing,2015, 115: 38-48.
 
-[36] 李雄飞, 冯婷婷, 骆实, 张小利*.基于递归神经网络的自动作曲算法[J].吉林大学学报(工学版),2018, 48 (03): 866-873.
+10. Zhang Xiaoli, Li Xiongfei, Feng Yuncong, Zhao Haoyu, Liu Zhaojun. Image fusion with Internal Generative Mechanism. Expert Systems with Applications, 2015, 42 (5): 2382-2391.
 
-[37] 肖明尧, 李雄飞, 张小利, 张刘.基于多尺度的区域生长的图像分割算法[J].吉林大学学报(工学版),2017, 47 (05): 1591-1597.
+11. Zhang Xiaoli, Li Xiongfei, Feng Yuncong. A new image fusion performance measure using Riesztransforms. Optik,2014, 125 (3): 1427-1433.
 
-[38] 张小利, 李雄飞, 李军.融合图像质量评价指标的相关性分析及性能评估[J].自动化学报,2014, 40 (02): 306-315. (引用量：177，CNKI下载量2541次)
+12. Zhang Xiaoli, Li Xiongfei, Liu Zhaojun, Feng Yuncong. Multi-focus image fusion using image-partition-based focus detection.Signal Processing,2014, 102: 64-76.
 
-[39] 赵海英, 张小利, 李雄飞, 彭宏.基于多尺度Meanshift图像去噪算法[J].吉林大学学报(工学版),2014, 44 (05): 1417-1422.
+13. 张小利, 李雄飞, 李军. 融合图像质量评价指标的相关性分析及性能评估. 自动化学报, 2014, 40 (02): 306-315. (引用量：177，CNKI下载量2541次)
+
 ### SOCIAL SERVICE
 (1) CCF 高级会员；
 
