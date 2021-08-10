@@ -18,7 +18,8 @@
 Image & Video Processing 
 
 Machine Learning
-### Publications 
+### Selected Publications
+#### 2021
 [1] Wang Zeyu, Li Xiongfei, Duan Haoran, Su Yanchi, Zhang Xiaoli*,Guan Xinjiang.Medical image fusion based on convolutional neural networks and non-subsampled contourlet    transform[J]. Expert Systems with Applications,2021, 171.
 
 [2] Yu Shuang, Li Xiongfei, Ma Mingrui, Zhang Xiaoli*, Chen Shiping.Multi-focus image fusion based on L1 image transform[J]. Multimedia Tools and Applications,2021, 80 (4): 5673-5700.
