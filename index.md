@@ -43,8 +43,6 @@ Machine Learning
 
 2. Guo Rui, Shen Xuanjing, ZhangXiaoli*. Comprehensive measure for evaluating image fusion algorithm.Journal of Electronic Imaging, 2020, 29(1): 013008.
 
-3. 李雄飞, 王婧, 张小利, 范铁虎.基于SVM和窗口梯度的多焦距图像融合方法.吉林大学学报(工学版), 2020, 50 (01): 227-236.
-
 #### (2019)
 
 1. Liu Sihan, Li Xiongfei, Zhang Xiaoli*. Remote sensing image fusion algorithm based on mutual-structure for joint filtering using saliency detection.Journal of Electronic Imaging, 2019, 28 (3): 033007.
