@@ -77,7 +77,7 @@ Machine Learning
 
 4. Zhang Xiaoli, Li Xiongfei, Feng Yuncong. Image fusion based on simultaneous empirical wavelet transform. Multimedia Tools and Applications,2017, 76 (6): 8175-8193.
 
-5. Zhang Xiaoli, Li Xiongfei,Li Hongpeng, Feng Yuncong, Ieee: A SEMI-AUTOMATIC BRAIN TUMOR SEGMENTATIONALGORITHM, 2016 Ieee International Conference on Multimedia & Expo,2016.
+5. Zhang Xiaoli, Li Xiongfei,Li Hongpeng, Feng Yuncong,A SEMI-AUTOMATIC BRAIN TUMOR SEGMENTATIONALGORITHM, 2016 IEEE International Conference on Multimedia & Expo,2016 (CCF B类会议长文).
 
 6. Zhang Xiaoli, Li Xiongfei, Feng Yuncong.A classification performance measure considering the degree ofclassification difficulty. Neurocomputing, 2016, 193: 81-91.
 
