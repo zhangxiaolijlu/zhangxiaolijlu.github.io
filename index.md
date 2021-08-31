@@ -75,25 +75,25 @@ Machine Learning
 
 3. Li Xiongfei, Wang Lingling, Wang Jing, **Zhang Xiaoli\***. Multi-focus image fusion algorithm based on multilevelmorphological component analysis and support vector machine.IET ImageProcessing, 2017, 11 (10): 919-926.
 
-4. Zhang Xiaoli, Li Xiongfei, Feng Yuncong. Image fusion based on simultaneous empirical wavelet transform. Multimedia Tools and Applications,2017, 76 (6): 8175-8193.
+4. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. Image fusion based on simultaneous empirical wavelet transform. Multimedia Tools and Applications,2017, 76 (6): 8175-8193.
 
-5. Zhang Xiaoli, Li Xiongfei,Li Hongpeng, Feng Yuncong,A SEMI-AUTOMATIC BRAIN TUMOR SEGMENTATIONALGORITHM, 2016 IEEE International Conference on Multimedia & Expo,2016 (CCF B类会议长文).
+5. **Zhang Xiaoli**, Li Xiongfei,Li Hongpeng, Feng Yuncong,A SEMI-AUTOMATIC BRAIN TUMOR SEGMENTATIONALGORITHM, 2016 IEEE International Conference on Multimedia & Expo,2016 (CCF B类会议长文).
 
-6. Zhang Xiaoli, Li Xiongfei, Feng Yuncong.A classification performance measure considering the degree ofclassification difficulty. Neurocomputing, 2016, 193: 81-91.
+6. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong.A classification performance measure considering the degree ofclassification difficulty. Neurocomputing, 2016, 193: 81-91.
 
-7. Zhang Xiaoli, Li Xiongfei, Feng Yuncong.A new multifocus image fusion based on spectrum comparison. Signal Processing,2016, 123: 127-142.
+7. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong.A new multifocus image fusion based on spectrum comparison. Signal Processing,2016, 123: 127-142.
 
-8. Zhang Xiaoli, Li Xiongfei, Feng Yuncong. A medical image segmentation algorithm based on bi-directionalregion growing. Optik,2015, 126 (20): 2398-2404.
+8. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. A medical image segmentation algorithm based on bi-directionalregion growing. Optik,2015, 126 (20): 2398-2404.
 
-9. Zhang Xiaoli, Li Xiongfei, Feng Yuncong, Liu Zhaojun.The use of ROC and AUC in the validation of objective image fusion evaluation metrics. Signal Processing,2015, 115: 38-48.
+9. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong, Liu Zhaojun.The use of ROC and AUC in the validation of objective image fusion evaluation metrics. Signal Processing,2015, 115: 38-48.
 
-10. Zhang Xiaoli, Li Xiongfei, Feng Yuncong, Zhao Haoyu, Liu Zhaojun. Image fusion with Internal Generative Mechanism. Expert Systems with Applications, 2015, 42 (5): 2382-2391.
+10. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong, Zhao Haoyu, Liu Zhaojun. Image fusion with Internal Generative Mechanism. Expert Systems with Applications, 2015, 42 (5): 2382-2391.
 
-11. Zhang Xiaoli, Li Xiongfei, Feng Yuncong. A new image fusion performance measure using Riesztransforms. Optik,2014, 125 (3): 1427-1433.
+11. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. A new image fusion performance measure using Riesztransforms. Optik,2014, 125 (3): 1427-1433.
 
-12. Zhang Xiaoli, Li Xiongfei, Liu Zhaojun, Feng Yuncong. Multi-focus image fusion using image-partition-based focus detection.Signal Processing,2014, 102: 64-76.
+12. **Zhang Xiaoli**, Li Xiongfei, Liu Zhaojun, Feng Yuncong. Multi-focus image fusion using image-partition-based focus detection.Signal Processing,2014, 102: 64-76.
 
-13. 张小利, 李雄飞, 李军. 融合图像质量评价指标的相关性分析及性能评估. 自动化学报, 2014, 40 (02): 306-315. (引用量：177，CNKI下载量2541次)
+13. **张小利**, 李雄飞, 李军. 融合图像质量评价指标的相关性分析及性能评估. 自动化学报, 2014, 40 (02): 306-315. (引用量：177，CNKI下载量2541次)
 
 ### Social Service（社会兼职）
 (1) CCF 高级会员；
