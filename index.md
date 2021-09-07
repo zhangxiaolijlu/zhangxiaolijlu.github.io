@@ -1,12 +1,19 @@
 ## Zhang Xiaoli
 
-**Title:** associate professor, PhD supervisor
+**Title:** associate professor（副教授）, PhD supervisor（博士生指导教师）
 
 **Address:**  No.2699 Qianjin Street, Changchun City, China.  
 
 **Zip Code:** 130012  
 
-**Email:** zhangxiaoli@jlu.edu.cn  
+**Email:** zhangxiaoli@jlu.edu.cn
+
+### 研究生招生信息
+每年招生计算机和软件硕士4-8人，2022年招收博士研究生1名。实验室欢迎有志科研的优秀本科生加入。
+
+实验室为学生提供优质的软硬件资源，配备多台图形工作站，能充分支撑深度学习算法。多名硕士、博士研究生已发表多篇顶级期刊。
+
+毕业后的硕士研究生去往各类型单位、部门，包括国内大厂、一线城市公务员、院士团队继续深造。
 
 ### Work Experience （工作经历）
 (1) 2019.09-至今 吉林大学计算机科学与技术学院 副教授
