@@ -22,9 +22,9 @@
 
 (3) 2016.09-2018.11 吉林大学通信工程学院博士后
 ### Research Interests （研究方向）
-Image & Video Processing 
+Image & Video Processing （图像视频处理）
 
-Machine Learning
+Machine Learning （机器学习）
 ### Selected Publications （部分论文）
 #### (2021)
 1. Yu Shuang, Li Xiongfei, Feng Yuncong, **Zhang Xiaoli\***, Shiping Chen. An Instance-Oriented Performance Measure for Classification. Information Sciences, 2021 (accepted). (CCF B)
