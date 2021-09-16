@@ -8,6 +8,8 @@
 
 **Email:** zhangxiaoli@jlu.edu.cn
 
+**Google Scholar：** https://scholar.google.com/citations?user=2aR9j4UAAAAJ
+
 ### 研究生招生信息
 每年招生计算机和软件硕士4-8人，2022年招收博士研究生1名。实验室欢迎有志科研的优秀本科生加入。
 
