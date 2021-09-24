@@ -105,7 +105,7 @@ Signal Processing, 2021, 189: 108254. (中科院2区，CCF C类期刊)
 
 12. **Zhang Xiaoli**, Li Xiongfei, Liu Zhaojun, Feng Yuncong. Multi-focus image fusion using image-partition-based focus detection.Signal Processing,2014, 102: 64-76.
 
-13. **张小利**, 李雄飞, 李军. 融合图像质量评价指标的相关性分析及性能评估. 自动化学报, 2014, 40 (02): 306-315. (引用量：177，CNKI下载量2541次)
+13. **张小利**, 李雄飞, 李军. 融合图像质量评价指标的相关性分析及性能评估. 自动化学报, 2014, 40 (02): 306-315. (引用量：198，CNKI下载量2769次)
 
 ### Patents （专利）
 1. （1/7）基于卷积神经网络的多尺度遥感图像融合方法，专利号：ZL 2018 1 0839303.0, 授权日期：2021-06-29
