@@ -29,9 +29,9 @@ Image & Video Processing （图像视频处理）
 Machine Learning （机器学习）
 ### Selected Publications （部分论文）
 #### (2021)
-1.Zhu Rui, Li Xiongfei, Huang Sa, **Zhang Xiaoli\***. Multimodal medical image fusion using adaptive co-occurrence filter-based decomposition optimization model. Bioinformatics, 2021(accepted).  (CCF B)
+1. Zhu Rui, Li Xiongfei, Huang Sa, **Zhang Xiaoli\***. Multimodal medical image fusion using adaptive co-occurrence filter-based decomposition optimization model. Bioinformatics, 2021(accepted).  (CCF B)
 
-2.  Yu Shuang, Li Xiongfei, Feng Yuncong, **Zhang Xiaoli\***, Shiping Chen. An Instance-Oriented Performance Measure for Classification. Information Sciences, 2021, 580: 598-619. (中科院1区，CCF B)
+2. Yu Shuang, Li Xiongfei, Feng Yuncong, **Zhang Xiaoli\***, Shiping Chen. An Instance-Oriented Performance Measure for Classification. Information Sciences, 2021, 580: 598-619. (中科院1区，CCF B)
 
 2. Wang Yu, Li Xiongfei, Zhu Rui, Wang Zeyu, Feng Yuncong, **Zhang Xiaoli\***. A multi-focus image fusion framework based on multi-scale sparse representation in gradient domain. Signal Processing, 2021, 189: 108254. (中科院2区，CCF C类期刊)
 
