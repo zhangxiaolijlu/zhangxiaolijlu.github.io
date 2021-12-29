@@ -60,51 +60,51 @@ Machine Learning （机器学习）
 
 #### (2019)
 
-1. Liu Sihan, Li Xiongfei, **Zhang Xiaoli\***. Remote sensing image fusion algorithm based on mutual-structure for joint filtering using saliency detection.Journal of Electronic Imaging, 2019, 28 (3): 033007.
+1. Liu Sihan, Li Xiongfei, **Zhang Xiaoli\***. Remote sensing image fusion algorithm based on mutual-structure for joint filtering using saliency detection. Journal of Electronic Imaging, 2019, 28 (3): 033007.
 
 2. Luo Shi, Li Xiongfei, Zhu Rui, **Zhang Xiaoli\***. SFA: Small Faces Attention Face Detector. IEEE Access, 2019, 7:171609-171620.
 
-3. Wang Jing, Li Xiongfei, Wang Zeyu, Duan Haoran, **Zhang Xiaoli\***. Exposure correction using deep learning. Journal ofElectronic Imaging,2019, 28 (3): 033003.
+3. Wang Jing, Li Xiongfei, Wang Zeyu, Duan Haoran, **Zhang Xiaoli\***. Exposure correction using deep learning. Journal of Electronic Imaging,2019, 28 (3): 033003.
 
-4. Ye Fajie, Li Xiongfei, **Zhang Xiaoli\***. FusionCNN: a remote sensing image fusion algorithm based on deepconvolutional neural networks. Multimedia Tools and Applications,2019, 78(11): 14683-14703.
+4. Ye Fajie, Li Xiongfei, **Zhang Xiaoli\***. FusionCNN: a remote sensing image fusion algorithm based on deep convolutional neural networks. Multimedia Tools and Applications, 2019, 78(11): 14683-14703.
 
 5. Yu Shuang, Li Xiongfei, **Zhang Xiaoli\***, Wang Hancheng. The OCS-SVM: An Objective-Cost-Sensitive SVM WithSample-Based Misclassification Cost Invariance. IEEE Access, 2019, 7: 118931-118942.
 
-6. Wang Zeyu, Li Xiongfei, Duan Haoran, **Zhang Xiaoli\***, Wang Hancheng. Multifocus image fusion usingconvolutional neural networks in the discrete wavelet transformdomain. Multimedia Tools and Applications,2019, 78 (24): 34483-34512.
+6. Wang Zeyu, Li Xiongfei, Duan Haoran, **Zhang Xiaoli\***, Wang Hancheng. Multifocus image fusion using convolutional neural networks in the discrete wavelet transform domain. Multimedia Tools and Applications, 2019, 78 (24): 34483-34512.
 
 7. Guo Rui, Shen Xuanjing, **Zhang Xiaoli\***. 3D ROC Histogram: A New ROC Analysis Tool Incorporating Information on Instances[J].IEEE Access,2019, 7: 183396-183404.
 
-8. 李雄飞, 宋璐, **张小利\***.基于协同经验小波变换的遥感图像融合.吉林大学学报(工学版),2019, 49 (04): 1307-1319.
+8. 李雄飞, 宋璐, **张小利\***.基于协同经验小波变换的遥感图像融合. 吉林大学学报(工学版), 2019, 49 (04): 1307-1319.
 
-9. 李雄飞, 周晋男, **张小利\***.基于混合模型的广告转化率问题研究.东北大学学报(自然科学版),2019, 40 (07): 942-947.
+9. 李雄飞, 周晋男, **张小利\***.基于混合模型的广告转化率问题研究. 东北大学学报(自然科学版), 2019, 40 (07): 942-947.
 
 
 #### (-2018)
 
 
-1. Wang Jing, Li Xiongfei, Zhang Yan, **Zhang Xiaoli\***. Adaptive decomposition method for multi-modal medical imagefusion.IET Image Processing,2018, 12 (8): 1403-1412.
+1. Wang Jing, Li Xiongfei, Zhang Yan, **Zhang Xiaoli\***. Adaptive decomposition method for multi-modal medical imagefusion. IET Image Processing, 2018, 12 (8): 1403-1412.
 
-2. 李雄飞, 冯婷婷, 骆实, **张小利\***. 基于递归神经网络的自动作曲算法.吉林大学学报(工学版),2018, 48 (03): 866-873.
+2. 李雄飞, 冯婷婷, 骆实, **张小利\***. 基于递归神经网络的自动作曲算法. 吉林大学学报(工学版), 2018, 48 (03): 866-873.
 
-3. Li Xiongfei, Wang Lingling, Wang Jing, **Zhang Xiaoli\***. Multi-focus image fusion algorithm based on multilevelmorphological component analysis and support vector machine.IET ImageProcessing, 2017, 11 (10): 919-926.
+3. Li Xiongfei, Wang Lingling, Wang Jing, **Zhang Xiaoli\***. Multi-focus image fusion algorithm based on multilevel morphological component analysis and support vector machine. IET Image Processing, 2017, 11 (10): 919-926.
 
 4. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. Image fusion based on simultaneous empirical wavelet transform. Multimedia Tools and Applications,2017, 76 (6): 8175-8193.
 
-5. **Zhang Xiaoli**, Li Xiongfei,Li Hongpeng, Feng Yuncong,A SEMI-AUTOMATIC BRAIN TUMOR SEGMENTATIONALGORITHM, 2016 IEEE International Conference on Multimedia & Expo,2016 (CCF B类会议长文).
+5. **Zhang Xiaoli**, Li Xiongfei,Li Hongpeng, Feng Yuncong, A SEMI-AUTOMATIC BRAIN TUMOR SEGMENTATION ALGORITHM, 2016 IEEE International Conference on Multimedia & Expo,2016 (CCF B类会议长文).
 
-6. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong.A classification performance measure considering the degree ofclassification difficulty. Neurocomputing, 2016, 193: 81-91.
+6. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. A classification performance measure considering the degree ofclassification difficulty. Neurocomputing, 2016, 193: 81-91.
 
-7. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong.A new multifocus image fusion based on spectrum comparison. Signal Processing,2016, 123: 127-142.
+7. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. A new multifocus image fusion based on spectrum comparison. Signal Processing,2016, 123: 127-142.
 
-8. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. A medical image segmentation algorithm based on bi-directionalregion growing. Optik,2015, 126 (20): 2398-2404.
+8. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. A medical image segmentation algorithm based on bi-directional region growing. Optik,2015, 126 (20): 2398-2404.
 
-9. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong, Liu Zhaojun.The use of ROC and AUC in the validation of objective image fusion evaluation metrics. Signal Processing,2015, 115: 38-48.
+9. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong, Liu Zhaojun. The use of ROC and AUC in the validation of objective image fusion evaluation metrics. Signal Processing, 2015, 115: 38-48.
 
 10. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong, Zhao Haoyu, Liu Zhaojun. Image fusion with Internal Generative Mechanism. Expert Systems with Applications, 2015, 42 (5): 2382-2391.
 
 11. **Zhang Xiaoli**, Li Xiongfei, Feng Yuncong. A new image fusion performance measure using Riesztransforms. Optik,2014, 125 (3): 1427-1433.
 
-12. **Zhang Xiaoli**, Li Xiongfei, Liu Zhaojun, Feng Yuncong. Multi-focus image fusion using image-partition-based focus detection.Signal Processing,2014, 102: 64-76.
+12. **Zhang Xiaoli**, Li Xiongfei, Liu Zhaojun, Feng Yuncong. Multi-focus image fusion using image-partition-based focus detection. Signal Processing, 2014, 102: 64-76.
 
 13. **张小利**, 李雄飞, 李军. 融合图像质量评价指标的相关性分析及性能评估. 自动化学报, 2014, 40 (02): 306-315. (引用量：198，CNKI下载量2769次)
 
@@ -129,7 +129,7 @@ Database System Principles
 ### Social Service（社会兼职）
 1. CCF 高级会员；
 
-2. 中国图象图形学会会员，医学影像专业委员会成员；
+2. 中国图象图形学会会员，医学影像专业委员会委员，数字文化遗产专委会委员；
 
 3. IEEE会员；
 
