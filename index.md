@@ -72,7 +72,7 @@ Machine Learning （机器学习）
 
 6. Wang Zeyu, Li Xiongfei, Duan Haoran, **Zhang Xiaoli\***, Wang Hancheng. Multifocus image fusion using convolutional neural networks in the discrete wavelet transform domain. Multimedia Tools and Applications, 2019, 78 (24): 34483-34512.
 
-7. Guo Rui, Shen Xuanjing, **Zhang Xiaoli\***. 3D ROC Histogram: A New ROC Analysis Tool Incorporating Information on Instances[J].IEEE Access,2019, 7: 183396-183404.
+7. Guo Rui, Shen Xuanjing, **Zhang Xiaoli\***. 3D ROC Histogram: A New ROC Analysis Tool Incorporating Information on Instances. IEEE Access, 2019, 7: 183396-183404.
 
 8. 李雄飞, 宋璐, **张小利\***.基于协同经验小波变换的遥感图像融合. 吉林大学学报(工学版), 2019, 49 (04): 1307-1319.
 
