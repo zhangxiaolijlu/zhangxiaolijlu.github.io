@@ -11,7 +11,7 @@
 **Google Scholar：** https://scholar.google.com/citations?user=2aR9j4UAAAAJ
 
 ### 研究生招生信息
-实验室每年招生计算机和软件硕士4-8人，博士1-2人（2022年已招满2人）。实验室欢迎有志科研的优秀本科生加入。
+实验室每年招生计算机和软件学院硕士16人左右，博士1-2人。实验室欢迎有志科研的优秀学生加入。
 
 实验室为学生提供优质的软硬件资源，配备多台图形工作站，能充分支撑深度学习算法。多名硕士、博士研究生已发表多篇顶级期刊。
 
@@ -22,7 +22,7 @@
 
 (2) 2018.11-2019.09 吉林大学计算机科学与技术学院 讲师
 
-(3) 2016.09-2018.11 吉林大学通信工程学院博士后
+(3) 2016.09-2018.11 吉林大学通信工程学院 博士后
 ### Research Interests （研究方向）
 Image & Video Processing （图像视频处理）
 
@@ -31,9 +31,11 @@ Machine Learning （机器学习）
 
 #### (2022)
 
-1. Zhu Rui, Li Xiongfei, Huang Sa, **Zhang Xiaoli\***. Multimodal medical image fusion using adaptive co-occurrence filter-based decomposition optimization model. Bioinformatics, 2022, 38(3)：818-826.  (CCF B)
+1.  Wang Zeyu, Li Xiongfei, Duan Haoran, **Zhang Xiaoli\***. A Self-supervised Residual Feature Learning Model for Multi-focus Image Fusion. IEEE Transactions on Image Processing, 2022. DOI:10.1109/TIP.2022.3184250. (CCF A)
 
-2. Zhu Rui, Li Xiongfei, **Zhang Xiaoli\***, Wang Jing. HID: The Hybrid Image Decomposition Model for MRI and CT Fusion. IEEE journal of biomedical and health informatics, 2022, 26(2)：727-739. (中科院1区，TOP期刊)
+2.  Zhu Rui, Li Xiongfei, Huang Sa, **Zhang Xiaoli\***. Multimodal medical image fusion using adaptive co-occurrence filter-based decomposition optimization model. Bioinformatics, 2022, 38(3)：818-826.  (CCF B)
+
+3. Zhu Rui, Li Xiongfei, **Zhang Xiaoli\***, Wang Jing. HID: The Hybrid Image Decomposition Model for MRI and CT Fusion. IEEE journal of biomedical and health informatics, 2022, 26(2)：727-739. (中科院1区，TOP期刊)
 
 #### (2021)
 1. Yu Shuang, Li Xiongfei, Feng Yuncong, **Zhang Xiaoli\***, Shiping Chen. An Instance-Oriented Performance Measure for Classification. Information Sciences, 2021, 580: 598-619. (中科院1区，CCF B)
@@ -128,6 +130,8 @@ Database System Principles
 
 5. 横向项目，基于深度学习的牛脸识别系统，2021/11-2024/11，在研，主持。
 
+6. 横向项目，基于深度学习的视觉SLAM定位关键技术研发项目，2022/06-2023/11，在研，主持。
+
 
 ### Social Service（社会兼职）
 1. CCF 高级会员；
@@ -138,4 +142,6 @@ Database System Principles
 
 4. 吉林省数字医学学会会员；
 
-5. 多个SCI期刊、国内权威期刊（如计算机学报等）审稿人。
+5. SCI期刊（TMM, TIP, TNNLS等）、国内权威期刊（如计算机学报等）审稿人；
+
+6. ICDIP 2022 技术委员会成员，session chair。
