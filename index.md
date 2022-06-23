@@ -40,7 +40,7 @@ Machine Learning （机器学习）
 #### (2021)
 1. Yu Shuang, Li Xiongfei, Feng Yuncong, **Zhang Xiaoli\***, Shiping Chen. An Instance-Oriented Performance Measure for Classification. Information Sciences, 2021, 580: 598-619. (中科院1区，CCF B)
 
-2. Wang Yu, Li Xiongfei, Zhu Rui, Wang Zeyu, Feng Yuncong, **Zhang Xiaoli\***. A multi-focus image fusion framework based on multi-scale sparse representation in gradient domain. Signal Processing, 2021, 189: 108254. (中科院2区，CCF C类期刊)
+2. Wang Yu, Li Xiongfei, Zhu Rui, Wang Zeyu, Feng Yuncong, **Zhang Xiaoli\***. A multi-focus image fusion framework based on multi-scale sparse representation in gradient domain. Signal Processing, 2021, 189: 108254. (中科院2区)
 
 3. Yu Shuang, Li Xiongfei, Wang Hancheng, **Zhang Xiaoli\***, Chen Shiping. C_CART: An instance confidence-based decision tree algorithm for classification. Intelligent Data Analysis, 2021, 25 (4): 929-948. （CCF C类期刊）
 
@@ -48,13 +48,13 @@ Machine Learning （机器学习）
 
 5. Wang Zeyu, Li Xiongfei, Duan Haoran, Su Yanchi, **Zhang Xiaoli\***,Guan Xinjiang.Medical image fusion based on convolutional neural networks and non-subsampled contourlet    transform. Expert Systems with Applications, 2021, 171: 114574. （中科院1区）
 
-6. Yu Shuang, Li Xiongfei, Ma Mingrui, **Zhang Xiaoli\***, Chen Shiping. Multi-focus image fusion based on L1 image transform. Multimedia Tools and Applications, 2021, 80 (4): 5673-5700.（CCF C类期刊）
+6. Yu Shuang, Li Xiongfei, Ma Mingrui, **Zhang Xiaoli\***, Chen Shiping. Multi-focus image fusion based on L1 image transform. Multimedia Tools and Applications, 2021, 80 (4): 5673-5700.（CCF C类期刊，ESI期刊）
 
 7. Yu Shuang, Li Xiongfei, Wang Hancheng, **Zhang Xiaoli\***, Chen Shiping. BIDI: A classification algorithm with instance difficulty invariance. Expert Systems with Applications, 2021, 165: 113920.（中科院1区）
 
-8. Zhang Siqi, Li Xiongfei, Zhu Rui, **Zhang Xiaoli\***, Wang Zeyu, Zhang Shuhan. Medical image fusion algorithm based on L-0 gradient minimization for CT and MRI. Multimedia Tools and Applications, 2021, 80 (14): 21135-21164.（CCF C类期刊）
+8. Zhang Siqi, Li Xiongfei, Zhu Rui, **Zhang Xiaoli\***, Wang Zeyu, Zhang Shuhan. Medical image fusion algorithm based on L-0 gradient minimization for CT and MRI. Multimedia Tools and Applications, 2021, 80 (14): 21135-21164.（CCF C类期刊，ESI期刊）
 
-9. Zhu Rui, Li Xiongfei, **Zhang Xiaoli\***, Xu Xiaowei. MRI enhancement based on visual-attention by adaptive contrast adjustment and image fusion. Multimedia Tools and Applications, 2021, 80(9): 13019.（CCF C类期刊）
+9. Zhu Rui, Li Xiongfei, **Zhang Xiaoli\***, Xu Xiaowei. MRI enhancement based on visual-attention by adaptive contrast adjustment and image fusion. Multimedia Tools and Applications, 2021, 80(9): 13019.（CCF C类期刊，ESI期刊）
 
 
 #### (2020)
