@@ -31,11 +31,15 @@ Machine Learning （机器学习）
 
 #### (2022)
 
-1.  Wang Zeyu, Li Xiongfei, Duan Haoran, **Zhang Xiaoli\***. A Self-supervised Residual Feature Learning Model for Multi-focus Image Fusion. IEEE Transactions on Image Processing, 2022. DOI:10.1109/TIP.2022.3184250. (CCF A)
+1.  Wang Zeyu, Li Xiongfei, Duan Haoran, **Zhang Xiaoli\***. A Self-supervised Residual Feature Learning Model for Multi-focus Image Fusion. IEEE Transactions on Image Processing, 2022, 31: 4527-4542. (CCF A)
 
 2.  Zhu Rui, Li Xiongfei, Huang Sa, **Zhang Xiaoli\***. Multimodal medical image fusion using adaptive co-occurrence filter-based decomposition optimization model. Bioinformatics, 2022, 38(3)：818-826.  (CCF B)
 
 3. Zhu Rui, Li Xiongfei, **Zhang Xiaoli\***, Wang Jing. HID: The Hybrid Image Decomposition Model for MRI and CT Fusion. IEEE journal of biomedical and health informatics, 2022, 26(2)：727-739. (中科院1区，TOP期刊)
+
+4. Luo Shi, Li Xiongfei,  **Zhang Xiaoli\***. Wide Aspect Ratio Matching for Robust Face Detection. Multimedia Tools and Applications, 2022.
+
+5. Luo Shi, Li Xiongfei,  **Zhang Xiaoli\***. Bounding-box deep calibration for high performance face detection. IET Computer Vision, 2022.
 
 #### (2021)
 1. Yu Shuang, Li Xiongfei, Feng Yuncong, **Zhang Xiaoli\***, Shiping Chen. An Instance-Oriented Performance Measure for Classification. Information Sciences, 2021, 580: 598-619. (中科院1区，CCF B)
