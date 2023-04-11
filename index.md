@@ -33,7 +33,7 @@ Machine Learning （机器学习）
 
 1. Lin Xinze, Li Xiongfei, Zeyu Wang, **Zhang Xiaoli\***. Detecting sparse building change with ambiguous label using Siamese Full-Scale Connected Network and Instance Augmentation, Applied Intelligence, 2023, Accepted.
 
-2.  Song Zixuan, Li Xiongfei, **Zhang Xiaoli\***. Edge refinement multi-feature for change detection in bitemporal remote sensing images, Signal Processing: Image Communication, 2023, Accepted. 
+2.  Song Zixuan, Li Xiongfei, Song Zixuan, Wang Zeyu, **Zhang Xiaoli\***, Yang Yu. Edge refinement multi-feature for change detection in bitemporal remote sensing images, Signal Processing: Image Communication, 2023, Accepted. 
 
 
 #### (2022)
