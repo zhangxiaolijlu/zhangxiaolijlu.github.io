@@ -72,7 +72,7 @@ Machine Learning （机器学习）
 
 1. Zhu Rui, Li Xiongfei, **Zhang Xiaoli\***, Ma Mingrui. MRI and CT Medical Image Fusion Based on Synchronized-Anisotropic Diffusion Model. IEEE Access, 2020, 8: 91336-91350.
 
-2. Guo Rui, Shen Xuanjing, **Zhang Xiaoli\***. Comprehensive measure for evaluating image fusion algorithm .Journal of Electronic Imaging, 2020, 29(1): 013008.
+2. Guo Rui, Shen Xuanjing, **Zhang Xiaoli\***. Comprehensive measure for evaluating image fusion algorithm. Journal of Electronic Imaging, 2020, 29(1): 013008.
 
 #### (2019)
 
