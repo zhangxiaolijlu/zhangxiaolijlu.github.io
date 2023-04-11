@@ -29,6 +29,13 @@ Image & Video Processing （图像视频处理）
 Machine Learning （机器学习）
 ### Selected Publications （部分论文）
 
+#### (2023)
+
+1. Lin Xinze, Li Xiongfei, Zeyu Wang, **Zhang Xiaoli\***. Detecting sparse building change with ambiguous label using Siamese Full-Scale Connected Network and Instance Augmentation, Applied Intelligence, 2023, Accepted.
+
+2.  Song Zixuan, Li Xiongfei, **Zhang Xiaoli\***. Edge refinement multi-feature for change detection in bitemporal remote sensing images, Signal Processing: Image Communication, 2023, Accepted. 
+
+
 #### (2022)
 
 1.  Wang Zeyu, Li Xiongfei, Duan Haoran, **Zhang Xiaoli\***. A Self-supervised Residual Feature Learning Model for Multi-focus Image Fusion. IEEE Transactions on Image Processing, 2022, 31: 4527-4542. (CCF A)
