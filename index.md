@@ -32,7 +32,7 @@ Machine Learning （机器学习）
 #### (2023)
 
 1. Wang Zeyu , Li Xiongfei, Zhao Libo , Duan Haoran , Wang Shidong, Liu Hao, **Zhang Xiaoli\***. When Multi-Focus Image Fusion Networks Meet Traditional
-Edge-Preservation Technology, International Journal of Computer Vision, 2023, Accepted.
+Edge-Preservation Technology, International Journal of Computer Vision, 2023, Accepted. (CCF A)
 
 2. Feng Yuncong, Wu Jie, Hu Xiaohan, Zhang Wenjuan, Wang Guishen , Zhou Xiaotang, **Zhang Xiaoli\***. Medical image fusion using bilateral texture
 filtering, Biomedical Signal Processing and Control, 2023, Accepted.
