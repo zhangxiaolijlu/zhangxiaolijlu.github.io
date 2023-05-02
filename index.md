@@ -35,11 +35,11 @@ Machine Learning （机器学习）
 Edge-Preservation Technology, International Journal of Computer Vision, 2023, Accepted. (CCF A)
 
 2. Feng Yuncong, Wu Jie, Hu Xiaohan, Zhang Wenjuan, Wang Guishen , Zhou Xiaotang, **Zhang Xiaoli\***. Medical image fusion using bilateral texture
-filtering, Biomedical Signal Processing and Control, 2023, Accepted.
+filtering, Biomedical Signal Processing and Control, 2023, Accepted.(中科院2区)
 
-3. Lin Xinze, Li Xiongfei, Zeyu Wang, **Zhang Xiaoli\***. Detecting sparse building change with ambiguous label using Siamese Full-Scale Connected Network and Instance Augmentation, Applied Intelligence, 2023, Accepted.
+3. Lin Xinze, Li Xiongfei, Zeyu Wang, **Zhang Xiaoli\***. Detecting sparse building change with ambiguous label using Siamese Full-Scale Connected Network and Instance Augmentation, Applied Intelligence, 2023, Accepted.(中科院2区)
 
-4.  Song Zixuan, Li Xiongfei, Song Zixuan, Wang Zeyu, **Zhang Xiaoli\***, Yang Yu. Edge refinement multi-feature for change detection in bitemporal remote sensing images, Signal Processing: Image Communication, 2023, Accepted. 
+4.  Song Zixuan, Li Xiongfei, Song Zixuan, Wang Zeyu, **Zhang Xiaoli\***, Yang Yu. Edge refinement multi-feature for change detection in bitemporal remote sensing images, Signal Processing: Image Communication, 2023, Accepted. (中科院2区)
 
 
 #### (2022)
