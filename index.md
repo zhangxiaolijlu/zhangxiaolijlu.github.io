@@ -41,6 +41,8 @@ filtering, Biomedical Signal Processing and Control, 2023, Accepted.(中科院2�
 
 4.  Song Zixuan, Li Xiongfei, Song Zixuan, Wang Zeyu, **Zhang Xiaoli\***, Yang Yu. Edge refinement multi-feature for change detection in bitemporal remote sensing images, Signal Processing: Image Communication, 2023, Accepted. (中科院2区)
 
+5.  Wang Yu(本人指导研究生), **Zhang Xiaoli**, Huang Bo, Li Xiongfei, Amit Abu Sadat Mohammad Salehin, Zhu Rui*. RaGMAN: A relativistic average generative multi-adversarial network for pansharpening, Applied Soft Computing, 2023, 143: 110428. 
+
 
 #### (2022)
 
@@ -166,3 +168,5 @@ Database System Principles
 5. SCI期刊（TMM, TIP, TNNLS等）、国内权威期刊（如计算机学报等）审稿人；
 
 6. ICDIP 2022 技术委员会成员，session chair。
+
+7. ICDIP 2023 技术委员会成员，invited speaker。
