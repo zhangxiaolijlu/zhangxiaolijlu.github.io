@@ -43,7 +43,7 @@ filtering, Biomedical Signal Processing and Control, 2023, Accepted.(中科院2�
 
 5.  Wang Yu(本人指导研究生), **Zhang Xiaoli**, Huang Bo, Li Xiongfei, Amit Abu Sadat Mohammad Salehin, Zhu Rui*. RaGMAN: A relativistic average generative multi-adversarial network for pansharpening, Applied Soft Computing, 2023, 143: 110428.
    
-6.  Luo Shi, Li Xiongfei, Zhang Xiaoli*. Wide Aspect Ratio Matching for Robust Face Detection. Multimedia Tools and Applications, 2023, 82: 10535–10552. 
+6.  Luo Shi, Li Xiongfei, **Zhang Xiaoli\***. Wide Aspect Ratio Matching for Robust Face Detection. Multimedia Tools and Applications, 2023, 82: 10535–10552. 
 
 
 #### (2022)
